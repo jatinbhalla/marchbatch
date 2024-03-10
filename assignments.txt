@@ -1,0 +1,6 @@
+assignment 1- 10/march
+
+task1: try cheat sheet commands
+https://education.github.com/git-cheat-sheet-education.pdf
+task2: try to authenticate with git hub repo using ssh
+task3: explore git hub
