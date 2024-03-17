@@ -4,3 +4,10 @@ task1: try cheat sheet commands
 https://education.github.com/git-cheat-sheet-education.pdf
 task2: try to authenticate with git hub repo using ssh
 task3: explore git hub
+
+
+assignment2: 17th march
+terraform
+task1: try to create 2 vm with one terraform file.
+task2. try to create modules.
+task3: try to create sql server and sql db.
