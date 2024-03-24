@@ -11,3 +11,9 @@ terraform
 task1: try to create 2 vm with one terraform file.
 task2. try to create modules.
 task3: try to create sql server and sql db.
+
+assignment3: 24th march
+jenkins:
+task1: try examples of declrative and scripted pipelines
+task2: check how to use poll scm or cron job syntax
+task3: check how to create secrets
