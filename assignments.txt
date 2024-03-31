@@ -17,3 +17,8 @@ jenkins:
 task1: try examples of declrative and scripted pipelines
 task2: check how to use poll scm or cron job syntax
 task3: check how to create secrets
+
+assignment4: 31st march
+ansible
+task1: try to create playbook through which you will copy files from source server to target server
+task2: try to explore more about ansible and its usages in real world
