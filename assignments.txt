@@ -22,3 +22,7 @@ assignment4: 31st march
 ansible
 task1: try to create playbook through which you will copy files from source server to target server
 task2: try to explore more about ansible and its usages in real world
+
+assignment5: 13th april
+task1: try docker docker cheat sheet commands
+task2: try to create different types of docker file
