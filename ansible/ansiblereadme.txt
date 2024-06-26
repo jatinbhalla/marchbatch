@@ -5,3 +5,4 @@ ssh-keygen -t rsa -b 2048
 ssh-copy-id user@hostname
 ssh user@hostname
 ansible -m ping []
+ansible-playbook playbook.yml --ask-become-pass
